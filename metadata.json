@@ -1,0 +1,7 @@
+{
+  "name": "polaris100",
+  "description": "North Star Oracle 1.0.0",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
