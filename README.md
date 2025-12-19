@@ -1,4 +1,4 @@
-# 🌌 Polaris 1.0: The 100% Free AI Navigator
+# 🌌 Polaris 1.0.0: The 100% Free AI Navigator
 
 Polaris is a high-performance AI navigation interface that uses the **Free Tier** of Google's Gemini models. It provides a premium, "Deep Thinking" experience without any subscription fees.
 
@@ -57,4 +57,4 @@ Go to [Google AI Studio](https://aistudio.google.com/) and click **"Get API key"
 
 ---
 
-*Built with Polaris 1.0 - Navigation for the next era of intelligence.*
+*Built with Polaris 1.0.0 - Navigation for the next era of intelligence.*
